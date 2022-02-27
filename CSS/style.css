@@ -1,0 +1,21 @@
+
+@import url("COMPONENTS/container.css");
+@import url("COMPONENTS/screen.css");
+@import url("COMPONENTS/features.css");
+@import url("COMPONENTS/banner.css");
+@import url("COMPONENTS/card.css");
+
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
